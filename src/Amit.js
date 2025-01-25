@@ -30,7 +30,7 @@ export const products = [
       {
         id: 5,
         name: 'Product 3x',
-        imageUrl: './images/6.jpg',
+        imageUrl: './images/6.JPG',
         description: 'This is another great product.',
         price: '$20.00',
       },
