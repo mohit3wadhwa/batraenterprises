@@ -14,19 +14,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'  # Use the version of Node you prefer
-
     - name: Install dependencies
       run: npm install
 
     - name: Build the app
       run: npm run build
-
-    - name: gdggd
-      run: npm install -g gh-pages --save-dev
 
     - name: Deploy to GitHub Pages
       run: npm run deploy
