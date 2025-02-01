@@ -25,6 +25,9 @@ jobs:
     - name: Build the app
       run: npm run build
 
+    - name: gh-pagess
+      run: npm install gh-pages --save-dev
+
     - name: Deploy to GitHub Pages
       run: npm run deploy
       env:
