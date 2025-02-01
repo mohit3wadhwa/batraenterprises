@@ -15,8 +15,8 @@ export const products = [
     },
     {
       id: 3,
-      name: 'Product 3 Mobile 📱',
-      imageUrl: './images/3.JPG',
+      name: 'Rocket 🚀',
+      imageUrl: './images/rocket_liftoff.jpg',
       description: 'This is another great product.',
       price: '$20.00',
     },
