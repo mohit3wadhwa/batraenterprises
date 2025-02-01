@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main      # Change this to 'master' or your default branch if different
+      - master      # Change this to 'master' or your default branch if different
     paths:
       - 'src/**'  # Trigger on any change in the 'src' folder
 
