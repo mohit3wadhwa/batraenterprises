@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/batraenterprises/static/css/main.5b72c954.css",
-    "main.js": "/batraenterprises/static/js/main.625e3492.js",
+    "main.js": "/batraenterprises/static/js/main.1651d916.js",
     "static/js/488.b86a4d78.chunk.js": "/batraenterprises/static/js/488.b86a4d78.chunk.js",
     "index.html": "/batraenterprises/index.html",
     "main.5b72c954.css.map": "/batraenterprises/static/css/main.5b72c954.css.map",
-    "main.625e3492.js.map": "/batraenterprises/static/js/main.625e3492.js.map",
+    "main.1651d916.js.map": "/batraenterprises/static/js/main.1651d916.js.map",
     "488.b86a4d78.chunk.js.map": "/batraenterprises/static/js/488.b86a4d78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b72c954.css",
-    "static/js/main.625e3492.js"
+    "static/js/main.1651d916.js"
   ]
 }
