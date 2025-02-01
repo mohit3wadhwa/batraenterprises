@@ -15,7 +15,7 @@ export const products = [
     },
     {
       id: 3,
-      name: 'Product 3x - Wowwwwwwwwwwwwww! Github Actions Works',
+      name: 'Product 3x - Wowwwwwwwwwwwwwww! Github Actions Works',
       imageUrl: './images/3.JPG',
       description: 'This is another great product.',
       price: '$20.00',
